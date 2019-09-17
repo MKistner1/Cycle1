@@ -51,7 +51,7 @@ body{
   font-size: 20px;
 }
 .number, .empty{
-  background-color: white;
+  background-color: lightgrey;
 }
 .number, .operator{
  cursor: pointer; /* gives all number and operator buttons the ability to be clicked */
